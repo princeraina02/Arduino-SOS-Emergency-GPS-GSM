@@ -37,7 +37,7 @@ This project creates an **SOS emergency system** using an **Arduino Nano**, a **
    - Connect one pin to Arduino `D2`, the other to GND (use a pull-up resistor if needed).
 4. Ensure proper power supply for the GSM module, as it may require more current than the Arduino can provide.
 
-> **Note**: Verify pin assignments in the code, as they may vary. A schematic diagram is recommended for clarity (not included in this repo).
+> **Note**: Verify pin assignments in the code, as they may vary.
 
 ## Installation
 1. Clone or download this repository:
